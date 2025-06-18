@@ -116,4 +116,5 @@ public class TriangleTest {
 
         assert expected.equals(actual);
     }
+
 }
